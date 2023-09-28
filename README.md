@@ -135,7 +135,7 @@ If you want to display *sizes*, *dates* and *permissions*, do `br -sdp` which ge
 
 ![replace ls](website/docs/img/20201130-sdp.png)
 
-You may also toggle options with a few keystrokes while inside broot. For example hitting a space, a `d` then enter shows you the dates. Or a space, then `h` then enter and you see hidden files.
+You may also toggle options with a few keystrokes while inside broot. For example typing a space, then `da` then enter shows you the dates. Or a space, then `h` then enter and you see hidden files.
 
 ## Sort, see what takes space:
 
